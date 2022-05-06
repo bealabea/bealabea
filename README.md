@@ -1,15 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm <strong>Beatrice</strong>, a junior full stack web developer  
+<h3>I'm <strong>Beatrice</strong>, a junior full stack web developer</h3>  
 
-- ✔️ My tech skills: Html5, Css3, Bootstrap, Javascript Vanilla, Vue.js, Php, Laravel.
-- 💻 I’m currently learning: Javascript, Vue.js, PHP, MySQL, Laravel.
+- ✔️ My tech skills: Html5, Css3, Bootstrap, Javascript Vanilla, Vue.js, Php, Laravel, MySQL.
 - ✨ Others: Git, Vue CLI, Sass, Scss, Day.js, Carbon, Axios, Npm, Node.js, Composer, Blade, SQL.
 - ⚡ My graphic background leads me to seek creative adventures
+- 🌱 I’m currently learning: React and UX-UI design fundamentals
+<hr>
+
+&nbsp; Portfolio &nbsp; | &nbsp; Linkedin &nbsp; | 
+--- | --- | 
+&nbsp; <a target="_blank" href = "https://bit.ly/beatrice-portfolio"><img src="https://user-images.githubusercontent.com/89645358/167131287-17c35423-db20-4ae0-bd03-880698ac25f9.png" width="60px"/></a> &nbsp; | &nbsp; <a target="_blank" href = "https://www.linkedin.com/in/beatrice-marin/"><img src="https://user-images.githubusercontent.com/89645358/167131217-5b551bf5-268a-412a-a2fa-d3f3c94ccca2.png" width="60px"/></a> &nbsp; | 
+  
+
 
 <hr> 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/89645358/158966280-333cb730-9627-4452-8ac8-486773410b36.PNG" width="500px" >
+<img src="https://user-images.githubusercontent.com/89645358/158966280-333cb730-9627-4452-8ac8-486773410b36.PNG" width="800px" >
   
  <p align="center"> 
     <a href="#" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" width="48px"/> </a> 
@@ -22,19 +29,6 @@ I'm <strong>Beatrice</strong>, a junior full stack web developer
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/89645358/167121906-c91504ed-5f2b-43d3-b25a-0c1b9f8724e2.png" width="30px"/> </a>                   
 </p>
 
-<br/>
-
-## Portfolio
-
-<p align="left">
-
-<a target="_blank" href = "https://bit.ly/beatrice-portfolio"> <img src="https://user-images.githubusercontent.com/89645358/167120076-f095f6b1-bbf0-41cc-bca9-a8ea2a9210ec.png" width="60px"/></a>
-  
-## Linkedin
-
-<a target="_blank" href = "https://www.linkedin.com/in/beatrice-marin/"> <img src="https://user-images.githubusercontent.com/89645358/167121105-3650b588-2a80-492a-9183-97c824cdc8bc.png" width="70px"/></a>
-  
-</p>
 
 <!--
 **bealabea/bealabea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,7 +36,7 @@ I'm <strong>Beatrice</strong>, a junior full stack web developer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
