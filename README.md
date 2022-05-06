@@ -10,7 +10,7 @@
 
 &nbsp; Portfolio &nbsp; | &nbsp; Linkedin &nbsp; | 
 --- | --- | 
-&nbsp; <a target="_blank" href = "https://bit.ly/beatrice-portfolio"><img src="https://user-images.githubusercontent.com/89645358/167131287-17c35423-db20-4ae0-bd03-880698ac25f9.png" width="60px"/></a> &nbsp; | &nbsp; <a target="_blank" href = "https://www.linkedin.com/in/beatrice-marin/"><img src="https://user-images.githubusercontent.com/89645358/167131217-5b551bf5-268a-412a-a2fa-d3f3c94ccca2.png" width="60px"/></a> &nbsp; | 
+&nbsp; <a target="_blank" href = "https://bit.ly/beatrice-portfolio"><img src="https://user-images.githubusercontent.com/89645358/167139202-cf666382-67e1-4b54-8ddd-21648c4e406e.png" width="60px"/></a> &nbsp; | &nbsp; <a target="_blank" href = "https://www.linkedin.com/in/beatrice-marin/"><img src="https://user-images.githubusercontent.com/89645358/167139275-f6f5527d-69bf-481f-872d-10e04cf070d3.png" width="60px"/></a> &nbsp; | 
   
 
 
